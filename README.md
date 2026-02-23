@@ -12,8 +12,7 @@
 
 - 🤝 I’m looking for help with [Nabha Health Telemedicine Platform](https://github.com/prattyan/nabha-health-web)
 
-- 👨‍💻 All of my projects are available at [
-Subhra909-][subhrasanyal]
+- 👨‍💻 All of my projects are available at [Subhra909](https://github.com/Subhra909) [LinkedIn](https://www.linkedin.com/in/subhrasanyal)
 
 - 💬 Ask me about **Web Dev, ML**
 
